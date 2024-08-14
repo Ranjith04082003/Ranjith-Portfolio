@@ -1,0 +1,38 @@
+*{
+    font-family: "Poppins", sans-serif;
+}
+.banner{
+    background-image: url(/topimg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px 0;
+}
+.skills-padding{
+    padding: 80px 0;
+}
+.btn.btn-primary {
+    display: block;
+    margin: 0 auto;
+    margin-top:40px;
+  }
+  #submit-btn:hover{
+    color: black;
+    background-color: white;
+  }
+ .whatsapp{
+    width: 40px;
+ }
+.social-media a svg{
+  display:inline-block;
+  width: 200px;
+  margin: auto;   
+  padding-top: 50px;
+}
+.other{
+  padding-top: 50px;
+}
+
+  
+
+
+  
